@@ -16,7 +16,7 @@ GitHub is a cloud-based platform where you can store your Git repositories, coll
 
 ---
 
-## 1.Configuration Commands
+## Configuration Commands
 
 ### Global Configuration
 - #### Setting up User globally (All repos)
@@ -43,7 +43,7 @@ git config --unset user.email "Your github email"
 ```
 
 
-## 2.Repository Setup
+## Repository Setup
 
 ## Add & Commit
 
