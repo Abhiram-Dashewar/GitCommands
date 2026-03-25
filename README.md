@@ -8,11 +8,11 @@ Git is a version control system that helps you track changes in your code, manag
 GitHub is a cloud-based platform where you can store your Git repositories, collaborate with others, track changes, and manage projects (like code, issues, and pull requests) all in one place.
 
 ## 📚 Table of Contents
-- [⚙️ Configuration Commands](#️-configuration-commands)
-- [📁 Repository Setup](#-repository-setup)
-- [➕ Add & Commit](#-add--commit)
-- [🚀 Push & Pull](#-push--pull)
-- [🌿 Branching](#-branching)
+- [⚙️ Configuration Commands](#configuration-commands)
+- [📁 Repository Setup](#repository-setup)
+- [➕ Add & Commit](#add--commit)
+- [🚀 Push & Pull](#push--pull)
+- [🌿 Branching](#branching)
 
 ---
 
