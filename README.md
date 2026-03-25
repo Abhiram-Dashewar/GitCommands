@@ -42,6 +42,8 @@ git config --unset user.name "Your github username"
 git config --unset user.email "Your github email"
 ```
 
+---
+
 
 ## Repository Setup
 
