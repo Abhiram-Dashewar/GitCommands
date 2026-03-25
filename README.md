@@ -18,10 +18,18 @@ GitHub is a cloud-based platform where you can store your Git repositories, coll
 
 ## Configuration Commands
 
+- ### Setting up User
 ```bash
-1. git config --global user.name "Your Name" -> This sets your name Globally on your system
-2. git config --global user.email "your@email.com"
+git config --global user.name "Your github username"
+git config --global user.email "Your github email"
 ```
+
+- ### Removing User
+```bash 
+git config --global --unset user.name "Your github username"
+git config --global --unset unser.email "Your github email"
+```
+
 
 ## Repository Setup
 
