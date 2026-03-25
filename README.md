@@ -1,14 +1,14 @@
-# GitCommands
+# Git Commands
 This repository is a simple guide to help begginers understand and use Git effectively
 
 # Git Commands Guide 🚀
 
 ## 📚 Table of Contents
-- [⚙️ Configuration Commands](#️-configuration-commands)
-- [📁 Repository Setup](#-repository-setup)
-- [➕ Add & Commit](#-add--commit)
-- [🚀 Push & Pull](#-push--pull)
-- [🌿 Branching](#-branching)
+- [ Configuration Commands](#️-configuration-commands)
+- [ Repository Setup](#-repository-setup)
+- [ Add & Commit](#-add--commit)
+- [ Push & Pull](#-push--pull)
+- [ Branching](#-branching)
 
 ---
 
